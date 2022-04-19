@@ -26,4 +26,4 @@ int funcpower(int x, int y)
 		return x;
 	}
 }
-//UNMATCHABLE READIBILITY AND MODULARITY--------------------------------------------------------------------------------------------------------
+//UNMATCHABLE READIBILITY AND MODULARITY HEHEHEHEHE--------------------------------------------------------------------------------------------------------
